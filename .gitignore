@@ -1,0 +1,7 @@
+env
+project3/.env
+*.DS_Store
+*.pyc
+__pycache__
+
+.idea
